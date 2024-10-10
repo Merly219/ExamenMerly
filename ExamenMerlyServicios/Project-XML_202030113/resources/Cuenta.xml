@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cuenta>
+    <usuario>
+        <codUsuario>100</codUsuario>
+        <nomUsuario>Roberto</nomUsuario>
+        <apeUsuario>Rodriguez</apeUsuario>
+        <direccion>
+            <departamento>La Libertad</departamento>
+            <distrito>Esperanza</distrito>
+            <provincia>Trujillo</provincia>
+        </direccion>
+        <direccion>
+            <departamento>Lima</departamento>
+            <distrito>San Luis</distrito>
+            <provincia>Lima</provincia>
+        </direccion>
+    </usuario>
+    <usuario>
+        <codUsuario>200</codUsuario>
+        <nomUsuario>Carlos </nomUsuario>
+        <apeUsuario>Sanchez</apeUsuario>
+        <direccion>
+            <departamento>La Libertad</departamento>
+            <distrito>Esperanza</distrito>
+            <provincia>Trujillo</provincia>
+        </direccion>
+        <direccion>
+            <departamento>Lima</departamento>
+            <distrito>San Luis</distrito>
+            <provincia>Lima</provincia>
+        </direccion>
+    </usuario>
+</cuenta>

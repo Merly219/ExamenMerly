@@ -1,0 +1,38 @@
+{
+  "usuarios": [
+    {
+      "codUsuario": 100,
+      "nomUsuario": "Roberto",
+      "apeUsuario": "Rodriguez",
+      "direcciones": [
+        {
+          "departamento": "La Libertad",
+          "provincia": "Trujillo",
+          "distrito": "Esperanza"
+        },
+        {
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "San Luis"
+        }
+      ]
+    },
+    {
+      "codUsuario": 200,
+      "nomUsuario": "Carlos ",
+      "apeUsuario": "Sanchez",
+      "direcciones": [
+        {
+          "departamento": "La Libertad",
+          "provincia": "Trujillo",
+          "distrito": "Esperanza"
+        },
+        {
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "San Luis"
+        }
+      ]
+    }
+  ]
+}
